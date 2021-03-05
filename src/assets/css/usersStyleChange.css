@@ -1,0 +1,32 @@
+.el-table {
+  background-color: #0e1726;
+}
+.el-table th,
+.el-table .el-table__header tr {
+  background-color: #0e1726;
+}
+.el-table .el-table__body tbody {
+  background-color: #0e1726;
+}
+thead.has-gutter {
+  background: transparent;
+}
+.el-pagination .btn-prev {
+  background-color: transparent;
+}
+input.el-input__inner {
+  background-color: #0e1726;
+  border-radius: 8px;
+  border: 1.5px solid #3b3f5c;
+}
+input.el-input__inner:hover {
+  border: 1.5px solid #3b3f5c;
+}
+div.el-input-group__append {
+  background-color: #0e1726;
+  border: 1.5px solid #3b3f5c;
+  border-left: 0;
+  border-radius: 8px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
